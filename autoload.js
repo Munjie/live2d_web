@@ -1,5 +1,5 @@
 // 注意：live2d_path 参数应使用绝对路径
-const live2d_path = "https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/Munjie/live2d_web@1.0.2/";
 //const live2d_path = "/live2d-widget/";
 
 // 封装异步加载资源的方法
@@ -60,5 +60,5 @@ console.log(`
               ﾚ'ヽL__|___i,___,ンﾚ|ノ
                   ﾄ-,/  |___./
                   'ｰ'    !_,.:
-   Live2d v1.0.0 www.munjie.com@我是杰木哥               
+   Live2d v1.0.0 www.munjie.com  我是杰木哥               
 `);
